@@ -1,0 +1,3 @@
+class fit{
+    main
+}
