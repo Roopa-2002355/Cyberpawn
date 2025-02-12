@@ -1,3 +1,3 @@
 class fit{
-    main
+    main nb
 }
